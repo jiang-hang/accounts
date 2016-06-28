@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2016-06-28
+  fcat1: 
+  fcat2: 
+  mtype: MyString
+  value: 1.5
+  note: MyText
+
+two:
+  date: 2016-06-28
+  fcat1: 
+  fcat2: 
+  mtype: MyString
+  value: 1.5
+  note: MyText

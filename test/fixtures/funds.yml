@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date: 2016-06-27
+  value: 1.5
+  share: 1.5
+  note: MyText
+
+two:
+  name: MyString
+  date: 2016-06-27
+  value: 1.5
+  share: 1.5
+  note: MyText
