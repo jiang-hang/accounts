@@ -1,6 +1,0 @@
-
-form do |f|
-  f.label "赎回金额:"
-  f.input :val
-  f.button "赎回"
-end
