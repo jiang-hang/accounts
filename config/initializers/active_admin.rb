@@ -34,6 +34,7 @@ ActiveAdmin.setup do |config|
   #
   # Default:
   # config.default_namespace = :admin
+   config.default_namespace = false
   #
   # You can customize the settings for each namespace by using
   # a namespace block. For example, to change the site title
@@ -113,6 +114,7 @@ ActiveAdmin.setup do |config|
   #
   # Default:
   # config.root_to = 'dashboard#index'
+  config.root_to = 'flows#index'
 
   # == Admin Comments
   #
