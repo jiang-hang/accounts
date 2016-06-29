@@ -1,5 +1,7 @@
 ActiveAdmin.register Flow , namespace: :root do
 
+config.per_page = 10
+
 menu label: "流水记录" , parent: "流水"
 
 permit_params :date, :value , :note, :mtype, :fcat1_id, :fcat2_id
