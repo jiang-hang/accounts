@@ -33,6 +33,7 @@ gem 'rolify', :git => 'git://github.com/RolifyCommunity/rolify.git'
 
 gem 'rails-i18n' , '~> 4.0.0'
 
+gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

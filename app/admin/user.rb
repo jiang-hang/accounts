@@ -1,4 +1,7 @@
 ActiveAdmin.register User do
+
+  menu label: "用户"  
+
   permit_params :email, :password, :password_confirmation
 
   index do
